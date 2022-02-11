@@ -10,3 +10,7 @@
  */
 
 #include <iniparser.h>
+
+int main() {
+    // TODO...
+}
